@@ -41,6 +41,5 @@ javascript: (() => {
       }
     });
   }
-  
   console.log(out);
 })();
