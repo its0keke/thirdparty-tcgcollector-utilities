@@ -1,5 +1,5 @@
 javascript: (() => {
-  var collectionId = "ce559747-7449-4b80-93ac-0ac7523c5db1";
+  var collectionId = "paste your collection id here!!";
   var out = [];
   let xhr1 = new XMLHttpRequest();
   xhr1.responseType = "json";
